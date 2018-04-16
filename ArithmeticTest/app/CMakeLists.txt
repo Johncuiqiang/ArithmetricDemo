@@ -10,6 +10,7 @@ add_library( ArithmeticLib  #设置库的名称。即SO文件的名称，生产�
              src/main/cpp/Arithmetic.cpp    # 提供一个源文件的相对路径
              src/main/cpp/binarytree/BinaryTree.cpp
              src/main/cpp/redblacktree/RedBlackTree.cpp
+             src/main/cpp/binarysearch/BinarySearch.cpp
 )
 
 
